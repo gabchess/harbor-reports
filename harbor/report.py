@@ -9,7 +9,7 @@ def read_export(path):
 
 
 def pipeline_total(rows):
-    return sum(round(float(row["amount"])) for row in rows)
+    return round(sum(float(row["amount"]) for row in rows), 2)
 
 
 def weekly_report(rows):
