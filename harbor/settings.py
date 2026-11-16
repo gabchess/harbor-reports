@@ -1,5 +1,5 @@
 LABELS = {
     "refresh": "Refresh schedule",
-    "currency": "Report currancy",
+    "currency": "Report currency",
     "week_start": "Week starts on",
 }
