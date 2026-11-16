@@ -1,0 +1,20 @@
+{
+  "what_shipped": "Faster dashboards",
+  "do_not_say": [
+    "twice as fast",
+    "instant",
+    "real time",
+    "much faster",
+    "now live"
+  ],
+  "open_questions": [
+    "How much faster are dashboards, and how was it measured?",
+    "Which customers and which dashboards get the change?"
+  ],
+  "expected": {
+    "verdict": "ask",
+    "tier": null,
+    "gates": [],
+    "reason": "No numbers, no proof and no scope. The two open questions (how much faster, for whom) decide what any sentence could say, so writing now would invent facts."
+  }
+}

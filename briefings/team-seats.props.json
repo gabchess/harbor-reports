@@ -1,0 +1,26 @@
+{
+  "what_shipped": "Team seats for sales managers",
+  "do_not_say": [
+    "per-seat pricing",
+    "unlimited seats",
+    "available on every plan",
+    "results for all customers",
+    "now live"
+  ],
+  "open_questions": [
+    "Pricing and plans. Which plans include team seats and how seats are priced.",
+    "Maximum team size at general release.",
+    "Whether the weekly report can be sent to people outside the team."
+  ],
+  "expected": {
+    "verdict": "write",
+    "tier": "launch",
+    "gates": [
+      "blog",
+      "changelog",
+      "social",
+      "faq"
+    ],
+    "reason": "Real beta proof with labelled numbers, a clear problem story, and open questions that only concern price, size and sharing, so a post can leave them out."
+  }
+}
