@@ -12,5 +12,4 @@ def week_label(day):
 
 
 def parse_day(text):
-    year, month, day = text.split("-")
-    return date(int(year), int(month), int(day))
+    return date.fromisoformat(text)
